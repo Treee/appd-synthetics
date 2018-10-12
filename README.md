@@ -4,7 +4,7 @@ This project is meant to be a bootstrap for using Python to create AppDynamic Sy
 
 ## Mac Instructions  
 
-1. Install python  
+1. Install python, most macs have python installed already. It is possible you might need to get additional tools for advanced operations. Cross that bridge when that happens.
 2. `pip install selenium`  
 3. `brew tap homebrew/cask`
 4. `brew install chromedriver`  
